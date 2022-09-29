@@ -1,0 +1,11 @@
+StartChar: Oslashacute
+Encoding: 366 510 579
+Width: 585
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 442 -1 N 1 0 0 1 329 -50 2
+Refer: 136 216 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" Oslash acutecomb.cap
+EndChar

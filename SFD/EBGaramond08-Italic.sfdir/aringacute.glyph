@@ -1,0 +1,12 @@
+StartChar: aringacute
+Encoding: 363 507 576
+Width: 492
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 467 -1 N 1 0 0 1 300 -15 2
+Refer: 466 -1 N 1 0 0 1 282 -130 2
+Refer: 65 97 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" a uni030A.stack acutecomb.flat
+EndChar

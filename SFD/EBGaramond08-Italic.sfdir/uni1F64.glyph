@@ -1,0 +1,8 @@
+StartChar: uni1F64
+Encoding: 889 8036 1926
+Width: 1000
+VWidth: 0
+Flags: MW
+LayerCount: 2
+MultipleSubs2: "CCMP_Precomp subtable" omega uni0313.grk acutecomb.grkstack
+EndChar

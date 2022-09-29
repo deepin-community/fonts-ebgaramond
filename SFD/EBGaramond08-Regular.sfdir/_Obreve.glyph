@@ -1,0 +1,12 @@
+StartChar: Obreve
+Encoding: 334 334 331
+Width: 713
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 706 -1 N 1 0 0 1 217 -35 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Obreve.sc
+MultipleSubs2: "CCMP_Precomp subtable" O uni0306.cap
+EndChar

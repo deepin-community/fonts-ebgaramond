@@ -1,0 +1,12 @@
+StartChar: ecaron
+Encoding: 283 283 283
+Width: 391
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 276 780 N 1 0 0 1 84 0 2
+Refer: 69 101 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" ecaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" e uni030C
+EndChar

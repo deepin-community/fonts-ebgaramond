@@ -1,0 +1,12 @@
+StartChar: Scircumflex
+Encoding: 272 348 525
+Width: 494
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 443 -1 N 1 0 0 1 226 -50 2
+Refer: 51 83 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Scircumflex.sc
+MultipleSubs2: "CCMP_Precomp subtable" S uni0302.cap
+EndChar

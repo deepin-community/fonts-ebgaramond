@@ -1,0 +1,12 @@
+StartChar: uni1E4C
+Encoding: 631 7756 715
+Width: 646
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 467 -1 N 1 0 0 1 341 255 2
+Refer: 444 -1 N 1 0 0 1 291 -50 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" O tildecomb.cap acutecomb.flat
+EndChar

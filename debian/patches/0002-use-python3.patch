@@ -1,0 +1,21 @@
+From: Hideki Yamane <henrich@debian.org>
+Date: Thu, 14 Nov 2019 23:02:11 +0900
+Subject: use python3
+
+---
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index a92738f..7e79691 100644
+--- a/Makefile
++++ b/Makefile
+@@ -12,7 +12,7 @@ DIST=$(NAME)-$(VERSION)-complete
+ #Call script through fontforge, not python. https://github.com/fontforge/fontforge/issues/528
+ #FF=fontforge
+ #Return to python because we don’t scale the font any longer.
+-PY=python
++PY=python3
+ SCRIPT=tools/makefont.py
+ SFNTTOOL=java -jar sfnttool.jar
+ 

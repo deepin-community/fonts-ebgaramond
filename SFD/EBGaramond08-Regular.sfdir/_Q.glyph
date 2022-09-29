@@ -1,0 +1,42 @@
+StartChar: Q
+Encoding: 81 81 49
+Width: 721
+VWidth: 982
+Flags: HMW
+AnchorPoint: "top_accent" 375 670 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+345 -50.5 m 0
+ 322.373046875 -27.873046875 259.87890625 -14.708984375 232 1 c 0
+ 126.208984375 60.6103515625 50 152 50 281 c 0
+ 50 461 204 605 382 605 c 0
+ 541 605 671 470 671 311 c 0
+ 671 207 608 100.5 530 43.5 c 0
+ 477 4.5 451 1.5 450 -16 c 0
+ 450 -19 453.568359375 -26.5263671875 456 -30 c 0
+ 468.619140625 -48.021484375 503.905273438 -89.1474609375 547 -120 c 0
+ 608.795898438 -164.241210938 663 -194 732 -194 c 0
+ 753 -194 779 -191 788 -187 c 0
+ 794 -185 801 -183 807 -183 c 0
+ 813 -183 818 -189 818 -195 c 0
+ 818 -236 723 -254 692 -254 c 0
+ 596 -254 545.620117188 -217.48828125 472 -164 c 0
+ 426.6953125 -131.083984375 388.133789062 -93.6337890625 345 -50.5 c 0
+162 325 m 0
+ 162 181 225 21 369 21 c 0
+ 415 21 465 53 499 87 c 0
+ 547 135 559 201 559 276 c 0
+ 559 421 483 560 347 560 c 0
+ 233 560 162 439 162 325 c 0
+EndSplineSet
+Substitution2: "Single Substitution lookup 69 subtable" Q.low
+Substitution2: "Single Substitution lookup 68 subtable" Q.short
+Substitution2: "Single Substitution lookup 67 subtable" Q.long
+Substitution2: "Single Substitution lookup 66 subtable" Q.long
+Substitution2: "c2sc subtable" Q.sc
+Substitution2: "sups subtable" Q.sups
+Substitution2: "sinf subtable" Q.sinf
+Substitution2: "ordn subtable" Q.ordn
+Substitution2: "subs subtable" Q.subs
+EndChar

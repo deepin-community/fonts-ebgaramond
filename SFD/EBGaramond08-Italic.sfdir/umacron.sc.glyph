@@ -1,0 +1,11 @@
+StartChar: umacron.sc
+Encoding: 1959 -1 1683
+Width: 549
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 1826 -1 N 1 0 0 1 168.941 -20 2
+Refer: 1590 -1 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

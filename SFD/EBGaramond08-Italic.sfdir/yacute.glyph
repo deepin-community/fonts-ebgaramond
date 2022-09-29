@@ -1,0 +1,11 @@
+StartChar: yacute
+Encoding: 177 253 173
+Width: 422
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 310 769 N 1 0 0 1 262 0 2
+Refer: 89 121 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps subtable" yacute.sc
+MultipleSubs2: "CCMP_Precomp subtable" y acutecomb
+EndChar

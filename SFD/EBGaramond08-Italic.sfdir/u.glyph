@@ -1,0 +1,40 @@
+StartChar: u
+Encoding: 85 117 85
+Width: 482
+Flags: MW
+AnchorPoint: "ogonek" 433 18 basechar 0
+AnchorPoint: "top_accent" 323 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+317 163.93359375 m 0
+ 255.620117188 71.8642578125 177 -14 106 -14 c 0
+ 70 -14 50 36 56 62 c 2
+ 129 315 l 2
+ 134 331 139 352 127 352 c 0
+ 99 352 60 304 46 304 c 0
+ 39 304 35 320 35 328 c 0
+ 35 348 136 430 189 430 c 0
+ 230 430 223 383 217 363 c 2
+ 144 110 l 2
+ 139 89 139 61 157 61 c 0
+ 208 61 297 191.93359375 333 251.93359375 c 0
+ 359 296.93359375 371 326 396 418 c 0
+ 398 426 407 430 414 430 c 0
+ 455 430 459 396 455 380 c 2
+ 371 79 l 2
+ 368 67 370 62 379 62 c 0
+ 415 62 446 110 461 110 c 0
+ 467 110 468 103 468 97 c 0
+ 468 62 388 -14 328 -14 c 0
+ 270 -14 297 80.8662109375 325 159.93359375 c 0
+ 328.404296875 169.545898438 319 166.93359375 317 163.93359375 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" u.sc
+Substitution2: "sups subtable" u.sups
+Substitution2: "sinf subtable" u.sinf
+Substitution2: "ordn subtable" u.ordn
+Substitution2: "subs subtable" u.subs
+Substitution2: "Single Substitution lookup 24 subtable" u.LAT
+Substitution2: "loclLAT subtable" u.LAT
+EndChar

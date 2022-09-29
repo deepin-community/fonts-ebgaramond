@@ -1,0 +1,8 @@
+StartChar: uni1FF7
+Encoding: 1024 8183 1895
+Width: 1000
+VWidth: 0
+Flags: MW
+LayerCount: 2
+MultipleSubs2: "CCMP_Precomp subtable" omega uni0345 uni0342
+EndChar

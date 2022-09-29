@@ -1,0 +1,41 @@
+StartChar: L
+Encoding: 44 76 44
+Width: 609
+Flags: MW
+AnchorPoint: "cedilla" 183 8 basechar 0
+AnchorPoint: "top_accent" 321 650 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+209 131 m 2
+ 300 495 l 2
+ 312 544 329 553 386 569 c 0
+ 395 571 401 577 401 586 c 0
+ 401 598 381 604 366 604 c 0
+ 332 604 319 599 284 599 c 0
+ 248 599 212 604 173 604 c 0
+ 158 604 138 598 138 586 c 0
+ 138 577 145 571 154 569 c 0
+ 206 554 216 539 205 495 c 2
+ 114 129 l 2
+ 104 88 92 59 59 44 c 0
+ 36 34 4 30 4 15 c 0
+ 4 5 21 -2 36 -2 c 0
+ 51 -2 92 2 139 2 c 0
+ 177 2 372 -5 486 -5 c 0
+ 500 -5 517 -1 525 8 c 0
+ 551 37 576 88 576 113 c 0
+ 576 127 575 131 563 131 c 0
+ 542 131 521 98 501 82 c 0
+ 483 67 455 50 423 50 c 2
+ 251 50 l 2
+ 216 50 194 69 209 131 c 2
+EndSplineSet
+Substitution2: "Swash subtable" L.sw
+Substitution2: "c2sc subtable" L.sc
+Substitution2: "sups subtable" L.sups
+Substitution2: "sinf subtable" L.sinf
+Substitution2: "ordn subtable" L.ordn
+Substitution2: "subs subtable" L.subs
+Substitution2: "loclCAT subtable" L.CAT
+EndChar

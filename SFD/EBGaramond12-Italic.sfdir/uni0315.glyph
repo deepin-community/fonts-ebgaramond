@@ -1,0 +1,10 @@
+StartChar: uni0315
+Encoding: 789 789 988
+Width: 0
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 126 787 S 1 0 0 1 126 0 2
+Substitution2: "Smallcaps1 subtable" uni0315.sc
+EndChar

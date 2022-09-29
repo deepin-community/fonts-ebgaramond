@@ -1,0 +1,10 @@
+StartChar: dcroat
+Encoding: 197 273 936
+Width: 416
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 160 240 N 1 0 0 1 0 0 2
+Validated: 32773
+Substitution2: "Smallcaps subtable" dcroat.sc
+EndChar

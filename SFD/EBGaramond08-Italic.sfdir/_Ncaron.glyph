@@ -1,0 +1,12 @@
+StartChar: Ncaron
+Encoding: 251 327 518
+Width: 684
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 451 -1 N 1 0 0 1 329 -50 2
+Refer: 46 78 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Ncaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" N uni030C.cap
+EndChar

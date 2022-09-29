@@ -1,0 +1,12 @@
+StartChar: ccircumflex
+Encoding: 265 265 279
+Width: 392
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 267 770 N 1 0 0 1 88 0 2
+Refer: 67 99 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" ccircumflex.sc
+MultipleSubs2: "CCMP_Precomp subtable" c uni0302
+EndChar

@@ -1,0 +1,61 @@
+StartChar: numbersign
+Encoding: 35 35 79
+Width: 430
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+367 646 m 2
+ 367 640 l 1
+ 338 467 l 1
+ 378 470 l 2
+ 383 470 388 467 388 456 c 0
+ 388 444 381 405 365 404 c 2
+ 325 401 l 1
+ 299 274 l 1
+ 341 277 l 2
+ 346 277 351 272 351 262 c 0
+ 351 250 344 213 328 212 c 2
+ 286 209 l 1
+ 239 34 l 2
+ 234 19 212 18 193 18 c 0
+ 184 18 177 23 177 32 c 2
+ 177 36 l 1
+ 226 207 l 1
+ 130 201 l 1
+ 81 23 l 2
+ 76 8 54 7 35 7 c 0
+ 26 7 19 13 19 22 c 2
+ 19 25 l 1
+ 69 199 l 1
+ 27 196 l 2
+ 22 196 16 201 16 211 c 0
+ 16 222 19 260 35 261 c 2
+ 85 264 l 1
+ 118 397 l 1
+ 74 394 l 2
+ 69 394 64 399 64 409 c 0
+ 64 420 66 458 82 459 c 2
+ 133 462 l 1
+ 168 604 l 1
+ 173 645 198 650 218 650 c 0
+ 226 650 231 637 231 621 c 0
+ 231 612 230 611 230 611 c 1
+ 230 610 l 1
+ 194 464 l 1
+ 277 465 l 1
+ 322 642 l 2
+ 326 659 343 661 358 661 c 0
+ 363 661 367 654 367 646 c 2
+146 266 m 1
+ 239 272 l 1
+ 264 399 l 1
+ 179 399 l 1
+ 146 266 l 1
+EndSplineSet
+Substitution2: "sups subtable" numbersign.sups
+Substitution2: "sinf subtable" numbersign.sinf
+Substitution2: "ordn subtable" numbersign.ordn
+Substitution2: "subs subtable" numbersign.subs
+EndChar

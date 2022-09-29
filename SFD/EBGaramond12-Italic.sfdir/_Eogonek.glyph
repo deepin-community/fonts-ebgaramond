@@ -1,0 +1,25 @@
+StartChar: Eogonek
+Encoding: 280 280 201
+Width: 621
+VWidth: 0
+Flags: MW
+AnchorPoint: "top_accent" 501 710 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+373 -286 m 0
+ 344 -287 310 -250 310 -216 c 0
+ 310 -110 418 -32 505 18 c 1
+ 532 18 l 17
+ 457 -34 392 -92 392 -179 c 0
+ 392 -197 403 -222 429 -222 c 0
+ 450 -222 481 -197 493 -183 c 0
+ 496 -179 520 -160 520 -181 c 0
+ 520 -184 513 -197 510 -201 c 0
+ 475 -248 428 -285 373 -286 c 0
+EndSplineSet
+Refer: 35 69 N 1 0 0 1 0 0 3
+Validated: 37
+Substitution2: "c2sc subtable" Eogonek.sc
+MultipleSubs2: "CCMP_Precomp subtable" E uni0328.cap
+EndChar

@@ -1,0 +1,12 @@
+StartChar: Ohungarumlaut
+Encoding: 260 336 521
+Width: 646
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 450 -1 N 1 0 0 1 338 -50 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Ohungarumlaut.sc
+MultipleSubs2: "CCMP_Precomp subtable" O uni030B.cap
+EndChar

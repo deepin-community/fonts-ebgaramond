@@ -1,0 +1,11 @@
+StartChar: ohorn
+Encoding: 309 417 891
+Width: 378
+VWidth: 0
+Flags: MW
+AnchorPoint: "ogonek" 337 18 basechar 0
+LayerCount: 2
+Fore
+Refer: 14 44 N 1 0 0 1 226.923 293 2
+Refer: 79 111 N 1 0 0 1 0 0 2
+EndChar

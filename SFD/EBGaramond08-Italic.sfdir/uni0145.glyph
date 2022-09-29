@@ -1,0 +1,12 @@
+StartChar: uni0145
+Encoding: 249 325 516
+Width: 684
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 882 806 N 1 0 0 1 -12.3764 -48 2
+Refer: 46 78 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" uni0145.sc
+MultipleSubs2: "CCMP_Precomp subtable" N uni0326
+EndChar

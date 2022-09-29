@@ -1,0 +1,11 @@
+StartChar: uni1E46
+Encoding: 7750 7750 423
+Width: 819
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 2086 -1 N 1 0 0 1 314 0 2
+Refer: 28 78 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" N dotbelowcomb.cap
+EndChar

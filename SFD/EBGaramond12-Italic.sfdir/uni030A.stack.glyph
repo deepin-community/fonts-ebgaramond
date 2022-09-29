@@ -1,0 +1,23 @@
+StartChar: uni030A.stack
+Encoding: 66401 -1 2100
+Width: 0
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top_stack" 129 639 basemark 0
+AnchorPoint: "top_accent" 81 526 mark 0
+LayerCount: 2
+Fore
+SplineSet
+123 614 m 0
+ 151 614 175 592 175 564 c 0
+ 175 508 123 469 67 469 c 0
+ 37 469 13 493 13 523 c 0
+ 13 579 67 614 123 614 c 0
+50 532 m 0
+ 50 514 64 497 82 497 c 0
+ 112 497 138 521 138 551 c 0
+ 138 569 124 586 106 586 c 0
+ 76 586 50 562 50 532 c 0
+EndSplineSet
+Substitution2: "Smallcaps1 subtable" uni030A.stacksc
+EndChar

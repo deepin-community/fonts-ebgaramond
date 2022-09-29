@@ -1,0 +1,11 @@
+StartChar: period.sups
+Encoding: 65926 -1 1518
+Width: 149
+VWidth: 440
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 1212 -1 N 1 0 0 1 135 440 2
+Validated: 1
+Comment: "." 
+EndChar

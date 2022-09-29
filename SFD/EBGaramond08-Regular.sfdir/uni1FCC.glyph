@@ -1,0 +1,11 @@
+StartChar: uni1FCC
+Encoding: 8140 8140 1909
+Width: 810
+VWidth: 0
+Flags: M
+LayerCount: 2
+Fore
+Refer: 871 919 N 1 0 0 1 0 0 3
+Validated: 32769
+MultipleSubs2: "CCMP_Precomp subtable" Eta uni0345.cap
+EndChar

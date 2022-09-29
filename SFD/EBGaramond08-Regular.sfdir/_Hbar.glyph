@@ -1,0 +1,19 @@
+StartChar: Hbar
+Encoding: 294 294 751
+Width: 725
+VWidth: 982
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+36 413 m 2
+ 22 413 0 414 0 425 c 0
+ 0 443 21 461 53 461 c 2
+ 683 461 l 2
+ 708 461 725 459 725 451 c 0
+ 725 436 712 413 682 413 c 2
+ 36 413 l 2
+EndSplineSet
+Refer: 40 72 N 1 0 0 1 0 0 2
+Substitution2: "c2sc subtable" Hbar.sc
+EndChar

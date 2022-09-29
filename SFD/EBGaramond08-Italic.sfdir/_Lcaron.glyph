@@ -1,0 +1,12 @@
+StartChar: Lcaron
+Encoding: 241 317 513
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 478 -1 S 1 0 0 1 430.04 5 2
+Refer: 44 76 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Lcaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" L uni030C.alt
+EndChar

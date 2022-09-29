@@ -1,0 +1,17 @@
+StartChar: acute
+Encoding: 180 180 76
+Width: 469
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+350 650 m 0
+ 376 650 404 647 404 629 c 0
+ 404 606 323 576 204 466 c 0
+ 196 459 177 444 163 444 c 0
+ 150 444 142 448 142 460 c 0
+ 142 478 243 598 274 632 c 0
+ 291 651 317 650 350 650 c 0
+EndSplineSet
+EndChar

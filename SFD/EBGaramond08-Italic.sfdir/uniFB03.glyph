@@ -1,0 +1,13 @@
+StartChar: uniFB03
+Encoding: 1160 64259 272
+Width: 724
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 393 -1 N 1 0 0 1 0 0 2
+Ligature2: "liga_standard subtable" f.DEU f.DEU i
+Ligature2: "liga_standard subtable" f.DEU f i
+Ligature2: "liga_standard subtable" f f.DEU i
+Ligature2: "liga_standard subtable" f f i
+LCarets2: 2 0 0 
+EndChar

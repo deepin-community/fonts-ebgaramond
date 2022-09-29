@@ -1,0 +1,12 @@
+StartChar: Ebreve
+Encoding: 200 276 491
+Width: 579
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 446 -1 N 1 0 0 1 293 -60 2
+Refer: 37 69 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Ebreve.sc
+MultipleSubs2: "CCMP_Precomp subtable" E uni0306.cap
+EndChar

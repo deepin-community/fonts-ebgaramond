@@ -1,0 +1,9 @@
+StartChar: uni0415
+Encoding: 540 1045 897
+Width: 1000
+VWidth: 0
+Flags: MW
+AnchorPoint: "cedilla" 322 8 basechar 0
+AnchorPoint: "ogonek" 450 18 basechar 0
+LayerCount: 2
+EndChar

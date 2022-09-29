@@ -1,0 +1,37 @@
+StartChar: D
+Encoding: 36 68 36
+Width: 735
+Flags: MW
+AnchorPoint: "cedilla" 412 8 basechar 0
+AnchorPoint: "top_accent" 436 650 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+205 495 m 2
+ 215.734375 538.701171875 205.985351562 554.387695312 154 569 c 0
+ 145.3359375 571.435546875 138 577 138 586 c 0
+ 138 598 158 604 173 604 c 0
+ 192 604 228 599 247 599 c 0
+ 317.697265625 599 365.740234375 609 428 609 c 0
+ 585 609 715 495 715 339 c 0
+ 715 124 489.75 -6 274 -6 c 0
+ 193.5 -6 174 4 126 4 c 0
+ 79 4 52 -2 37 -2 c 0
+ 21 -2 4 5 4 15 c 0
+ 4 30 36.232421875 33.6728515625 59 44 c 0
+ 91.7841796875 58.8720703125 103.866210938 88.2412109375 114 129 c 2
+ 205 495 l 2
+297 481 m 2
+ 209 129 l 2
+ 200.775390625 96.009765625 208 47 296 47 c 0
+ 456 47 610 155 610 322 c 0
+ 610 473 534 564 371 564 c 0
+ 329 564 310.693359375 536.331054688 297 481 c 2
+EndSplineSet
+Substitution2: "Swash subtable" D.sw
+Substitution2: "c2sc subtable" D.sc
+Substitution2: "sups subtable" D.sups
+Substitution2: "sinf subtable" D.sinf
+Substitution2: "ordn subtable" D.ordn
+Substitution2: "subs subtable" D.subs
+EndChar

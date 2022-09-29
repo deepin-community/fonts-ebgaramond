@@ -1,0 +1,12 @@
+StartChar: Rho
+Encoding: 929 929 641
+Width: 570
+VWidth: 0
+Flags: MW
+AnchorPoint: "grk_uc_top_left" 100 665 basechar 0
+LayerCount: 2
+Fore
+Refer: 26 80 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "c2sc subtable" Rho.sc
+EndChar

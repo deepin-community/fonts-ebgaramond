@@ -1,0 +1,12 @@
+StartChar: uni030F
+Encoding: 783 783 2018
+Width: 0
+VWidth: 0
+Flags: MW
+AnchorPoint: "top_accent" 119 550 mark 0
+LayerCount: 2
+Fore
+Refer: 981 768 N 1 0 0 1 106 0 2
+Refer: 981 768 N 1 0 0 1 0 0 2
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni030F.cap
+EndChar

@@ -1,0 +1,12 @@
+StartChar: V.sc
+Encoding: 1114657 -1 1656
+Width: 550
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top_accent" 291 615 basechar 0
+LayerCount: 3
+Fore
+Refer: 1688 -1 N 1 0 0 1 0 0 2
+Validated: 1
+Comment: "." 
+EndChar

@@ -1,0 +1,11 @@
+StartChar: asterisk.ordn
+Encoding: 65820 -1 1412
+Width: 650
+VWidth: 280
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 1208 -1 N 1 0 0 1 86 280 2
+Validated: 1
+Comment: "." 
+EndChar

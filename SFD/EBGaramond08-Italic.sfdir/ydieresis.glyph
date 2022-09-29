@@ -1,0 +1,11 @@
+StartChar: ydieresis
+Encoding: 179 255 175
+Width: 422
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 316 776 N 1 0 0 1 185 0 2
+Refer: 89 121 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps subtable" ydieresis.sc
+MultipleSubs2: "CCMP_Precomp subtable" y uni0308
+EndChar

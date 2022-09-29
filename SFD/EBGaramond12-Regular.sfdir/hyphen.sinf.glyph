@@ -1,0 +1,11 @@
+StartChar: hyphen.sinf
+Encoding: 1114313 -1 1312
+Width: 178
+VWidth: -144
+Flags: HMW
+LayerCount: 3
+Fore
+Refer: 1211 -1 N 1 0 0 1 0 -144 2
+Validated: 1
+Comment: "." 
+EndChar

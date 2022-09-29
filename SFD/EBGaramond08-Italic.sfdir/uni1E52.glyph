@@ -1,0 +1,12 @@
+StartChar: uni1E52
+Encoding: 637 7762 721
+Width: 646
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 467 -1 N 1 0 0 1 354 254 2
+Refer: 445 -1 N 1 0 0 1 292 -50 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" O uni0304.cap acutecomb.flat
+EndChar

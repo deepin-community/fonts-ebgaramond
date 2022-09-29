@@ -1,0 +1,8 @@
+StartChar: alpha
+Encoding: 504 945 977
+Width: 1000
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Substitution2: "Smallcaps subtable" alpha.sc
+EndChar

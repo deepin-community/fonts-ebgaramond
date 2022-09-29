@@ -1,0 +1,14 @@
+StartChar: aogonek
+Encoding: 261 261 184
+Width: 451
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top_accent" 370 550 basechar 0
+LayerCount: 2
+Fore
+Refer: 128 808 N 1 0 0 1 172 0 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Validated: 5
+Substitution2: "Smallcaps1 subtable" aogonek.sc
+MultipleSubs2: "CCMP_Precomp subtable" a uni0328
+EndChar

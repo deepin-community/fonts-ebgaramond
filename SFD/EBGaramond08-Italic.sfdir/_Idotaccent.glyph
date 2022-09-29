@@ -1,0 +1,12 @@
+StartChar: Idotaccent
+Encoding: 228 304 505
+Width: 346
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 447 -1 N 1 0 0 1 218 -60 2
+Refer: 41 73 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Idotaccent.sc
+MultipleSubs2: "CCMP_Precomp subtable" I uni0307.cap
+EndChar

@@ -1,0 +1,36 @@
+StartChar: a
+Encoding: 65 97 65
+Width: 492
+Flags: MW
+AnchorPoint: "ogonek" 341 18 basechar 0
+AnchorPoint: "top_accent" 400 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+463 407 m 2
+ 381 79 l 2
+ 378 67 380 62 389 62 c 0
+ 425 62 456 110 471 110 c 0
+ 477 110 478 103 478 97 c 0
+ 478 62 398 -14 338 -14 c 0
+ 280 -14 305 73 316 121 c 0
+ 318 131 312 131 308 125 c 0
+ 253 51 185 -14 87 -14 c 0
+ 46 -14 15 5 15 43 c 0
+ 15 188 256 402 346 402 c 0
+ 360 402 367 396 373 396 c 0
+ 380 396 386 403 398 430 c 0
+ 401 437 409 442 416 442 c 0
+ 457 442 467 423 463 407 c 2
+110 86 m 0
+ 110 72 115 58 128 58 c 0
+ 211 58 361 249 361 313 c 0
+ 361 326 345 347 322 347 c 0
+ 274 347 110 161 110 86 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" a.sc
+Substitution2: "sups subtable" a.sups
+Substitution2: "sinf subtable" a.sinf
+Substitution2: "ordn subtable" a.ordn
+Substitution2: "subs subtable" a.subs
+EndChar

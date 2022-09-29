@@ -1,0 +1,13 @@
+StartChar: grave
+Encoding: 64 96 64
+Width: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 309 768 N 1 0 0 1 0 0 2
+Validated: 32769
+Substitution2: "sups subtable" grave.sups
+Substitution2: "sinf subtable" grave.sinf
+Substitution2: "ordn subtable" grave.ordn
+Substitution2: "subs subtable" grave.subs
+EndChar

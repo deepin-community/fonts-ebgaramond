@@ -1,0 +1,12 @@
+StartChar: uni1FD6
+Encoding: 8150 8150 1873
+Width: 221
+VWidth: 0
+Flags: M
+LayerCount: 2
+Fore
+Refer: 1663 834 N 1 0 0 1 -53.5 1 2
+Refer: 849 953 N 1 0 0 1 0 0 3
+Validated: 32769
+MultipleSubs2: "CCMP_Precomp subtable" iota uni0342
+EndChar

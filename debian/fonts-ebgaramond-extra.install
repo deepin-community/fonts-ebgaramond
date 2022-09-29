@@ -1,0 +1,4 @@
+build/*Initials*.otf usr/share/fonts/opentype/ebgaramond
+build/*SC*.otf usr/share/fonts/opentype/ebgaramond
+build/*.ttf usr/share/fonts/truetype/ebgaramond
+build/*.woff usr/share/fonts/woff/ebgaramond

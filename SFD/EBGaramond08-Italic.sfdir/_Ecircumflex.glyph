@@ -1,0 +1,11 @@
+StartChar: Ecircumflex
+Encoding: 126 202 122
+Width: 579
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 443 -1 N 1 0 0 1 239 -60 2
+Refer: 37 69 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Ecircumflex.sc
+MultipleSubs2: "CCMP_Precomp subtable" E uni0302.cap
+EndChar

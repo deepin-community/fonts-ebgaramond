@@ -1,0 +1,15 @@
+StartChar: f_f_i
+Encoding: 1114129 -1 257
+Width: 788
+VWidth: 982
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 198 64259 N 1 0 0 1 0 0 2
+Validated: 32769
+Ligature2: "liga_standard subtable" f.DEU f.DEU i
+Ligature2: "liga_standard subtable" f.DEU f i
+Ligature2: "liga_standard subtable" f f.DEU i
+Ligature2: "liga_standard subtable" f f i
+LCarets2: 2 267 522 
+EndChar

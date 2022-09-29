@@ -1,0 +1,11 @@
+StartChar: uni1ECF
+Encoding: 758 7887 840
+Width: 378
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 317 777 N 1 0 0 1 116 0 2
+Refer: 79 111 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" o hookabovecomb
+EndChar

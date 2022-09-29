@@ -1,0 +1,12 @@
+StartChar: lacute
+Encoding: 314 314 228
+Width: 252
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 2101 -1 N 1 0 0 1 253 262 2
+Refer: 2 108 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" lacute.sc
+MultipleSubs2: "CCMP_Precomp subtable" l acutecomb.flat
+EndChar

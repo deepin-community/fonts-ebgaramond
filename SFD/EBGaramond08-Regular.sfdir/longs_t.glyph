@@ -1,0 +1,12 @@
+StartChar: longs_t
+Encoding: 1114131 -1 259
+Width: 606
+VWidth: 982
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 200 64261 N 1 0 0 1 0 0 2
+Validated: 32769
+Ligature2: "liga_standard subtable" longs t
+LCarets2: 1 283 
+EndChar

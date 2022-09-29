@@ -1,0 +1,12 @@
+StartChar: Utilde
+Encoding: 284 360 531
+Width: 705
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 444 -1 N 1 0 0 1 316 -60 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Utilde.sc
+MultipleSubs2: "CCMP_Precomp subtable" U tildecomb.cap
+EndChar

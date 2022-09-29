@@ -1,0 +1,11 @@
+StartChar: asterisk.sinf
+Encoding: 65718 -1 1310
+Width: 650
+VWidth: -144
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 1208 -1 N 1 0 0 1 -44 -144 2
+Validated: 1
+Comment: "." 
+EndChar

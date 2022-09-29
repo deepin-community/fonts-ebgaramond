@@ -1,0 +1,29 @@
+StartChar: O
+Encoding: 79 79 47
+Width: 713
+VWidth: 982
+Flags: HMW
+AnchorPoint: "below_accent" 370 -80 basechar 0
+AnchorPoint: "cedilla" 391 15 basechar 0
+AnchorPoint: "ogonek" 449 15 basechar 0
+AnchorPoint: "top_accent" 362 670 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+390 598 m 0
+ 526 598 663 456 663 310 c 0
+ 663 139 537 -12 366 -12 c 0
+ 187 -12 50 113 50 295 c 0
+ 50 484 192 598 390 598 c 0
+162 330 m 0
+ 162 191 241 34 380 34 c 0
+ 499 34 551 161 551 280 c 0
+ 551 410 482 552 352 552 c 0
+ 242 552 162 440 162 330 c 0
+EndSplineSet
+Substitution2: "c2sc subtable" O.sc
+Substitution2: "sups subtable" O.sups
+Substitution2: "sinf subtable" O.sinf
+Substitution2: "ordn subtable" O.ordn
+Substitution2: "subs subtable" O.subs
+EndChar

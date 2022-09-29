@@ -1,0 +1,14 @@
+StartChar: Upsilondieresis
+Encoding: 939 939 1935
+Width: 739
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 707 -1 N 1 0 0 1 228.5 23 2
+Refer: 884 933 N 1 0 0 1 0 0 3
+Validated: 32769
+Substitution2: "c2sc subtable" Upsilondieresis.sc
+MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0308.cap
+Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0
+Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0
+EndChar

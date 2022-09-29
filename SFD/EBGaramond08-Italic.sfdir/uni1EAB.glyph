@@ -1,0 +1,12 @@
+StartChar: uni1EAB
+Encoding: 722 7851 805
+Width: 492
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 476 -1 N 1 0 0 1 259 37 2
+Refer: 474 -1 N 1 0 0 1 282 -130 2
+Refer: 65 97 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" a uni0302.stack tildecomb.stack
+EndChar

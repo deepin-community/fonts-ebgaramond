@@ -1,0 +1,11 @@
+StartChar: Gcaron
+Encoding: 344 486 562
+Width: 709
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 451 -1 N 1 0 0 1 362 -50 2
+Refer: 39 71 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" G uni030C.cap
+EndChar

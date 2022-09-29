@@ -1,0 +1,22 @@
+StartChar: tildecomb.cap
+Encoding: 66379 -1 2076
+Width: 0
+Flags: HMW
+AnchorPoint: "top_stack" 128 706 mark 0
+AnchorPoint: "top_stack" 159 820 basemark 0
+AnchorPoint: "top_accent" 117 710 mark 0
+LayerCount: 2
+Fore
+SplineSet
+202 725 m 0
+ 177 725 104 729 79 729 c 0
+ 45 729 26 690 16 690 c 0
+ 8 690 2 697 2 707 c 0
+ 2 740 55 786 92 786 c 0
+ 117 786 186 782 211 782 c 0
+ 246 782 261 820 273 820 c 0
+ 283 820 285 813 285 803 c 0
+ 285 773 239 725 202 725 c 0
+EndSplineSet
+Substitution2: "c2sc subtable" tildecomb.sc
+EndChar

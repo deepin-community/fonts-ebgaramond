@@ -1,0 +1,13 @@
+StartChar: asciitilde
+Encoding: 94 126 94
+Width: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 184 732 N 1 0 0 1 0 0 2
+Validated: 32769
+Substitution2: "sups subtable" asciitilde.sups
+Substitution2: "sinf subtable" asciitilde.sinf
+Substitution2: "ordn subtable" asciitilde.ordn
+Substitution2: "subs subtable" asciitilde.subs
+EndChar

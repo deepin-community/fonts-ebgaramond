@@ -1,0 +1,11 @@
+StartChar: uni1EDC
+Encoding: 771 7900 1914
+Width: 646
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 441 -1 N 1 0 0 1 337.918 -17 2
+Refer: 899 416 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" Ohorn gravecomb.cap
+EndChar

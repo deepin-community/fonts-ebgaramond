@@ -1,0 +1,12 @@
+StartChar: uni1E14
+Encoding: 575 7700 659
+Width: 579
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 469 -1 N 1 0 0 1 267 227 2
+Refer: 445 -1 N 1 0 0 1 247 -60 2
+Refer: 37 69 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" E uni0304.cap gravecomb.flat
+EndChar

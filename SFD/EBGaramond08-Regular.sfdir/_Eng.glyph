@@ -1,0 +1,10 @@
+StartChar: Eng
+Encoding: 330 330 757
+Width: 685
+VWidth: 982
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 46 78 N 1 0 0 1 0 0 2
+Substitution2: "c2sc subtable" Eng.sc
+EndChar

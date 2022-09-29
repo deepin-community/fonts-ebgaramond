@@ -1,0 +1,13 @@
+StartChar: G.sc
+Encoding: 1114642 -1 1641
+Width: 594
+VWidth: 0
+Flags: HMW
+AnchorPoint: "below_accent" 342 -99 basechar 0
+AnchorPoint: "top_accent" 324 615 basechar 0
+LayerCount: 3
+Fore
+Refer: 1673 -1 N 1 0 0 1 0 0 2
+Validated: 1
+Comment: "." 
+EndChar

@@ -1,0 +1,37 @@
+StartChar: h
+Encoding: 72 104 72
+Width: 502
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+59 109 m 2
+ 171 558 l 2
+ 177 583 180 593 180 604 c 0
+ 180 612 110 626 110 641 c 0
+ 110 656 209 682 241 682 c 0
+ 263 682 265 670 265 657 c 0
+ 265 635 259 609 250 572 c 2
+ 183 306 l 2
+ 180 294 181 270 194 290 c 0
+ 268 403 363 430 405 430 c 0
+ 446 430 478 386 478 340 c 0
+ 478 255 450 165 424 95 c 0
+ 415 72 327 -14 289 -14 c 0
+ 268 -14 243 -2 243 20 c 0
+ 243 32 272 72 287 72 c 0
+ 300 72 318 57 331 57 c 0
+ 337 57 346 62 350 75 c 0
+ 383 174 398 239 398 320 c 0
+ 398 344 381 366 358 366 c 0
+ 269 366 164 170 108 17 c 0
+ 105 8 95 -13 84 -14 c 0
+ 67 -16 51 5 50 11 c 0
+ 47 29 42 39 59 109 c 2
+EndSplineSet
+Substitution2: "Smallcaps subtable" h.sc
+Substitution2: "sups subtable" h.sups
+Substitution2: "sinf subtable" h.sinf
+Substitution2: "ordn subtable" h.ordn
+Substitution2: "subs subtable" h.subs
+EndChar

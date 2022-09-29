@@ -1,0 +1,11 @@
+StartChar: otilde
+Encoding: 169 245 165
+Width: 378
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 312 771 N 1 0 0 1 115 0 2
+Refer: 79 111 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps subtable" otilde.sc
+MultipleSubs2: "CCMP_Precomp subtable" o tildecomb
+EndChar

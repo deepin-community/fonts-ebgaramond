@@ -1,0 +1,58 @@
+StartChar: X
+Encoding: 56 88 56
+Width: 622
+Flags: MW
+AnchorPoint: "cedilla" 426 8 basechar 0
+AnchorPoint: "top_accent" 464 650 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+196 490 m 2
+ 178 532 155 555 108 567 c 0
+ 91 571 82 577 82 586 c 0
+ 82 598 102 604 117 604 c 0
+ 156 604 180 599 216 599 c 0
+ 251 599 284 604 318 604 c 0
+ 333 604 353 598 353 586 c 0
+ 353 577 338 571 330 569 c 0
+ 301 562 276 543 291 507 c 2
+ 348 374 l 1
+ 456 512 l 2
+ 471 532 482 557 439 569 c 0
+ 430 572 423 577 423 586 c 0
+ 423 598 443 604 458 604 c 0
+ 497 604 513 599 549 599 c 0
+ 584 599 587 604 621 604 c 0
+ 636 604 656 598 656 586 c 0
+ 656 577 649 571 641 569 c 0
+ 559 546 536 531 500 485 c 2
+ 371 321 l 1
+ 453 129 l 2
+ 471 87 515 53 538 45 c 0
+ 565 35 586 30 586 15 c 0
+ 586 5 571 -2 555 -2 c 0
+ 543 -2 480 4 432 4 c 0
+ 385 4 338 -2 323 -2 c 0
+ 307 -2 290 5 290 15 c 0
+ 290 30 318 38 342 44 c 0
+ 383 55 374 72 350 129 c 2
+ 304 237 l 1
+ 212 120 l 2
+ 178.916992188 77.9267578125 180 53 203 45 c 0
+ 230 35 245 30 245 15 c 0
+ 245 5 230 -2 214 -2 c 0
+ 202 -2 150 4 102 4 c 0
+ 55 4 28 -2 13 -2 c 0
+ -3 -2 -20 5 -20 15 c 0
+ -20 30 12 34 35 44 c 0
+ 68 59 110 69 159 132 c 2
+ 282 289 l 1
+ 196 490 l 2
+EndSplineSet
+Substitution2: "Swash subtable" X.sw
+Substitution2: "c2sc subtable" X.sc
+Substitution2: "sups subtable" X.sups
+Substitution2: "sinf subtable" X.sinf
+Substitution2: "ordn subtable" X.ordn
+Substitution2: "subs subtable" X.subs
+EndChar

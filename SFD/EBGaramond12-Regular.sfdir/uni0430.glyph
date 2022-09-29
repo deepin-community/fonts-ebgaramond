@@ -1,0 +1,12 @@
+StartChar: uni0430
+Encoding: 1072 1072 662
+Width: 399
+VWidth: 0
+Flags: HMW
+AnchorPoint: "below_accent" 131 -100 basechar 0
+AnchorPoint: "top_accent" 190 550 basechar 0
+LayerCount: 3
+Fore
+Refer: 0 97 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

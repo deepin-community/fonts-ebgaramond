@@ -1,0 +1,29 @@
+StartChar: zero
+Encoding: 48 48 83
+Width: 440
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+298 384 m 16
+ 206 384 108 176 108 45 c 8
+ 108 28 121 15 138 15 c 16
+ 221 15 327 203 327 354 c 8
+ 327 370 314 384 298 384 c 16
+308 414 m 8
+ 354 414 391 376 391 330 c 8
+ 391 160 268 -15 123 -15 c 8
+ 78 -15 45 24 45 69 c 16
+ 45 226 163 414 308 414 c 8
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" zero.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 33 subtable" zero.lnum
+Substitution2: "Single Substitution lookup 32 subtable" zero.ordn
+Substitution2: "Single Substitution lookup 31 subtable" zero.subs
+Substitution2: "sups subtable" zero.sups
+Substitution2: "sinf subtable" zero.sinf
+Substitution2: "ordn subtable" zero.ordn
+Substitution2: "subs subtable" zero.subs
+EndChar

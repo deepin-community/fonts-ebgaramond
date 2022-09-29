@@ -1,0 +1,24 @@
+StartChar: uni01EA
+Encoding: 490 490 314
+Width: 712
+VWidth: 0
+Flags: MW
+AnchorPoint: "top_accent" 501 710 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+318 -286 m 0
+ 289 -287 255 -250 255 -216 c 0
+ 255 -110 363 -32 450 18 c 1
+ 477 18 l 17
+ 402 -34 337 -92 337 -179 c 0
+ 337 -197 348 -222 374 -222 c 0
+ 395 -222 426 -197 438 -183 c 0
+ 441 -179 465 -160 465 -181 c 0
+ 465 -184 458 -197 455 -201 c 0
+ 420 -248 373 -285 318 -286 c 0
+EndSplineSet
+Refer: 46 79 N 1 0 0 1 0 0 3
+Validated: 37
+MultipleSubs2: "CCMP_Precomp subtable" O uni0328.cap
+EndChar

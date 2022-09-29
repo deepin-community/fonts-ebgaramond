@@ -1,0 +1,42 @@
+StartChar: w
+Encoding: 87 119 87
+Width: 685
+Flags: MW
+AnchorPoint: "top_accent" 439 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+314 113 m 0
+ 261 39 179 -14 133 -14 c 0
+ 72 -14 59 63 85 156 c 2
+ 129 315 l 2
+ 133 331 139 352 127 352 c 0
+ 99 352 60 304 46 304 c 0
+ 39 304 35 320 35 328 c 0
+ 35 348 136 430 189 430 c 0
+ 230 430 223 383 217 363 c 2
+ 155 141 l 2
+ 146 108 151 61 187 61 c 0
+ 242 61 299 142 334 212 c 0
+ 335 214 335 262 348 305 c 0
+ 361 347 386 383 418 383 c 0
+ 429 383 446 384 446 337 c 0
+ 446 311 431 273 407 233 c 0
+ 384 194 379 148 379 128 c 0
+ 379 98 393 61 423 61 c 0
+ 514 61 595 210 595 290 c 0
+ 595 330 561 355 561 374 c 0
+ 561 391 590 430 612 430 c 0
+ 642 430 667 384 667 337 c 0
+ 667 192 505 -14 381 -14 c 0
+ 340 -14 320 37 320 83 c 0
+ 320 92 321 100 322 108 c 0
+ 324 118 320 121 314 113 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" w.sc
+Substitution2: "sups subtable" w.sups
+Substitution2: "sinf subtable" w.sinf
+Substitution2: "ordn subtable" w.ordn
+Substitution2: "subs subtable" w.subs
+Substitution2: "ss03 subtable" w.alt
+EndChar

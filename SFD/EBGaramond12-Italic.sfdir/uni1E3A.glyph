@@ -1,0 +1,11 @@
+StartChar: uni1E3A
+Encoding: 7738 7738 411
+Width: 619
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 2096 -1 N 1 0 0 1 161 0 2
+Refer: 36 76 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" L uni0331.cap
+EndChar

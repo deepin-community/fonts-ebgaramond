@@ -1,0 +1,23 @@
+StartChar: uni030A.cap
+Encoding: 1114143 -1 711
+Width: 0
+Flags: MW
+AnchorPoint: "top_stack" 94 873 basemark 0
+AnchorPoint: "top_accent" 92 735 mark 0
+LayerCount: 2
+Fore
+SplineSet
+92 844 m 0
+ 134 844 175 819 175 777 c 0
+ 175 730 131 700 84 700 c 0
+ 41 700 1 726 1 769 c 0
+ 1 815 46 844 92 844 c 0
+47 772 m 0
+ 47 744 65 726 93 726 c 0
+ 118 726 129 747 129 772 c 0
+ 129 799 112 817 85 817 c 0
+ 59 817 47 798 47 772 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" uni030A.sc
+EndChar

@@ -1,0 +1,20 @@
+StartChar: O.sw
+Encoding: 1205 -1 427
+Width: 646
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+432 620 m 4
+ 547 620 626 519 626 404 c 4
+ 626 185 474 -20 282 -20 c 4
+ 154 -20 59 93 59 219 c 4
+ 59 435 237 620 432 620 c 4
+158 169 m 4
+ 158 105 201 25 273 25 c 4
+ 425 25 527 213.599609375 527 393 c 4
+ 527 479.015625 503.01953125 573 417 573 c 4
+ 272 573 158 371 158 169 c 4
+EndSplineSet
+Substitution2: "c2sc subtable" O.sc
+EndChar

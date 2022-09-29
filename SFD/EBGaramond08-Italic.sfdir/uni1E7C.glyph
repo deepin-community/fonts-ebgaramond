@@ -1,0 +1,11 @@
+StartChar: uni1E7C
+Encoding: 679 7804 763
+Width: 616
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 444 -1 N 1 0 0 1 269 -60 2
+Refer: 54 86 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" V tildecomb.cap
+EndChar

@@ -1,0 +1,12 @@
+StartChar: Ldot
+Encoding: 319 319 233
+Width: 619
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 113 183 S 1 0 0 1 301 124 2
+Refer: 36 76 S 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Ldot.sc
+LCarets2: 1 0 
+EndChar

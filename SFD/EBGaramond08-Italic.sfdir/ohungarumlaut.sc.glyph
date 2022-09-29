@@ -1,0 +1,11 @@
+StartChar: ohungarumlaut.sc
+Encoding: 1946 -1 1670
+Width: 560
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 1831 -1 N 1 0 0 1 218.457 -167 2
+Refer: 1584 -1 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

@@ -1,0 +1,9 @@
+StartChar: v.LAT
+Encoding: 2123 -1 1849
+Width: 454
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 86 118 N 1 0 0 1 0 0 2
+Substitution2: "Single Substitution lookup 66 subtable" v.LATmedi
+EndChar

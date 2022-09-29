@@ -1,0 +1,17 @@
+StartChar: period.sc
+Encoding: 1114617 -1 1616
+Width: 230
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+115 96 m 24
+ 145 96 170 71 170 41 c 24
+ 170 11 145 -14 115 -14 c 24
+ 85 -14 60 11 60 41 c 24
+ 60 71 85 96 115 96 c 24
+EndSplineSet
+Validated: 1
+Comment: "." 
+EndChar

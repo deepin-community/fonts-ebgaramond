@@ -1,0 +1,21 @@
+From: Hideki Yamane <henrich@debian.org>
+Date: Tue, 23 Jun 2020 06:54:06 +0900
+Subject: Build SC12-Italic and 12-Bold
+
+---
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index 7e79691..01b878b 100644
+--- a/Makefile
++++ b/Makefile
+@@ -19,7 +19,7 @@ SFNTTOOL=java -jar sfnttool.jar
+ #SIZES=08 12
+ #STYLES=Regular SC Allsc Italic Bold
+ #SPECIAL=Initials InitialsF1 InitialsF2
+-FONTS=08-Regular 08-Italic 12-Regular SC12-Regular 12-AllSC 12-Italic  -Initials -InitialsF1 -InitialsF2 SC08-Regular # SC12-Italic 12-Bold
++FONTS=08-Regular 08-Italic 12-Regular SC12-Regular 12-AllSC 12-Italic  -Initials -InitialsF1 -InitialsF2 SC08-Regular 12-Bold # SC12-Italic
+ 
+ SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
+ OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)

@@ -1,0 +1,10 @@
+StartChar: uni0324.cap
+Encoding: 66390 -1 2087
+Width: 0
+Flags: HMW
+AnchorPoint: "below_accent" 150 -100 mark 0
+LayerCount: 2
+Fore
+Refer: 2080 -1 N 1 0 0 1 0 -890 2
+Substitution2: "c2sc subtable" uni0324
+EndChar

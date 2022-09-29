@@ -1,0 +1,16 @@
+StartChar: dotbelowcomb.cap
+Encoding: 1231 -1 454
+Width: 0
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+60 -87 m 0
+ 90 -87 115 -112 115 -142 c 0
+ 115 -172 90 -197 60 -197 c 0
+ 30 -197 5 -172 5 -142 c 0
+ 5 -112 30 -87 60 -87 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" dotbelowcomb
+EndChar

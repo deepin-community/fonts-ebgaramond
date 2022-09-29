@@ -1,0 +1,8 @@
+StartChar: Phi
+Encoding: 493 934 1032
+Width: 1000
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Substitution2: "c2sc subtable" Phi.sc
+EndChar

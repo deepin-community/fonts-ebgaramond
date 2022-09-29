@@ -1,0 +1,11 @@
+StartChar: aacute
+Encoding: 149 225 145
+Width: 492
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 310 769 N 1 0 0 1 339 0 2
+Refer: 65 97 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps subtable" aacute.sc
+MultipleSubs2: "CCMP_Precomp subtable" a acutecomb
+EndChar

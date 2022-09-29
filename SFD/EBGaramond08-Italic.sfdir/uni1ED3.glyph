@@ -1,0 +1,12 @@
+StartChar: uni1ED3
+Encoding: 762 7891 844
+Width: 378
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 472 -1 N 1 0 0 1 83 -28 2
+Refer: 474 -1 N 1 0 0 1 166 -130 2
+Refer: 79 111 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" o uni0302.stack gravecomb.stack
+EndChar

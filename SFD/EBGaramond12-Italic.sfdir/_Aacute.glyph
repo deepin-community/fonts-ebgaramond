@@ -1,0 +1,12 @@
+StartChar: Aacute
+Encoding: 193 193 131
+Width: 772
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 2468 -1 N 1 0 0 1 753 0 2
+Refer: 31 65 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Aacute.sc
+MultipleSubs2: "CCMP_Precomp subtable" A acutecomb.cap
+EndChar

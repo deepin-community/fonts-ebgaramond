@@ -1,0 +1,13 @@
+StartChar: uni1E08
+Encoding: 7688 7688 361
+Width: 622
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 2468 -1 N 1 0 0 1 512 0 2
+Refer: 2089 -1 N 1 0 0 1 223 -8 2
+Refer: 32 67 N 1 0 0 1 0 0 3
+Validated: 5
+MultipleSubs2: "CCMP_Precomp subtable" C uni0327.cap acutecomb.cap
+EndChar

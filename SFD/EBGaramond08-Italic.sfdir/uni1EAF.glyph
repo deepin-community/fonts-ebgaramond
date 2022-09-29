@@ -1,0 +1,12 @@
+StartChar: uni1EAF
+Encoding: 726 7855 809
+Width: 492
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 473 -1 N 1 0 0 1 422 -20 2
+Refer: 477 -1 N 1 0 0 1 282 -130 2
+Refer: 65 97 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" a uni0306.stack acutecomb.stack
+EndChar

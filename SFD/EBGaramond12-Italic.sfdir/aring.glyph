@@ -1,0 +1,13 @@
+StartChar: aring
+Encoding: 229 229 159
+Width: 451
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 123 778 N 1 0 0 1 269 0 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "Smallcaps1 subtable" aring.sc
+MultipleSubs2: "CCMP_Precomp subtable" a uni030A
+EndChar

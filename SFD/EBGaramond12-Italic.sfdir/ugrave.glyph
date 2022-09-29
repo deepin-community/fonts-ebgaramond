@@ -1,0 +1,13 @@
+StartChar: ugrave
+Encoding: 249 249 174
+Width: 498
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 981 768 N 1 0 0 1 297 0 2
+Refer: 15 117 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "Smallcaps1 subtable" ugrave.sc
+MultipleSubs2: "CCMP_Precomp subtable" u gravecomb
+EndChar

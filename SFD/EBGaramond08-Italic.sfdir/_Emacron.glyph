@@ -1,0 +1,12 @@
+StartChar: Emacron
+Encoding: 198 274 490
+Width: 579
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 445 -1 N 1 0 0 1 247 -60 2
+Refer: 37 69 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Emacron.sc
+MultipleSubs2: "CCMP_Precomp subtable" E uni0304.cap
+EndChar

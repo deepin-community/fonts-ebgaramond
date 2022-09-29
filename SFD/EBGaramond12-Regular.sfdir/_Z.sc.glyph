@@ -1,0 +1,13 @@
+StartChar: Z.sc
+Encoding: 1114661 -1 1660
+Width: 510
+VWidth: 0
+Flags: HMW
+AnchorPoint: "cedilla" 288 8 basechar 0
+AnchorPoint: "top_accent" 242 615 basechar 0
+LayerCount: 3
+Fore
+Refer: 1692 -1 N 1 0 0 1 0 0 2
+Validated: 1
+Comment: "." 
+EndChar

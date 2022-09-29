@@ -1,0 +1,11 @@
+StartChar: uni1E55
+Encoding: 640 7765 724
+Width: 450
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 310 769 N 1 0 0 1 271 0 2
+Refer: 80 112 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" p acutecomb
+EndChar

@@ -1,0 +1,8 @@
+StartChar: dieresistonos
+Encoding: 464 901 1984
+Width: 1000
+VWidth: 0
+Flags: MW
+LayerCount: 2
+MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0308.grkstack acutecomb.grk
+EndChar

@@ -1,0 +1,32 @@
+StartChar: six
+Encoding: 22 54 23
+Width: 437
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+274 342 m 0
+ 184 342 117 198 117 112 c 0
+ 117 67 127 28 163 28 c 0
+ 238 28 309 155 309 263 c 0
+ 309 300 301 342 274 342 c 0
+37 108 m 0
+ 37 310 315 623 501 623 c 0
+ 514 623 517 617 517 611 c 0
+ 517 593 500.9140625 585.15625 484 579 c 0
+ 413.5234375 553.34765625 281.647460938 443.750976562 259 412 c 0
+ 239.255859375 384.3203125 245.193359375 378.041015625 255 380 c 0
+ 263.825195312 381.763671875 287 388 297 388 c 0
+ 353 388 389 332 389 279 c 0
+ 389 126 281 -20 134 -20 c 0
+ 79 -20 37 27 37 108 c 0
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 44 subtable" six.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" six.lnum
+Substitution2: "Single Substitution lookup 41 subtable" six.ordn
+Substitution2: "Single Substitution lookup 40 subtable" six.subs
+Substitution2: "sups subtable" six.sups
+Substitution2: "sinf subtable" six.sinf
+Substitution2: "ordn subtable" six.ordn
+Substitution2: "subs subtable" six.subs
+EndChar

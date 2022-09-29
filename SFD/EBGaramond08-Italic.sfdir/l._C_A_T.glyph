@@ -1,0 +1,9 @@
+StartChar: l.CAT
+Encoding: 1302 -1 945
+Width: 255
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 76 108 N 1 0 0 1 0 0 2
+Substitution2: "Smallcaps subtable" l.CATsc
+EndChar

@@ -1,0 +1,20 @@
+StartChar: o.sc
+Encoding: 1860 -1 1584
+Width: 560
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+289 470 m 0
+ 414 470 525 381 525 256 c 0
+ 525 108 404 -10 256 -10 c 0
+ 134 -10 39 91 39 213 c 0
+ 39 353 149 470 289 470 c 0
+141 254 m 0
+ 141 152 187 34 289 34 c 0
+ 380 34 422 140 422 231 c 0
+ 422 326 361 424 266 424 c 0
+ 185 424 141 335 141 254 c 0
+EndSplineSet
+Validated: 1
+EndChar

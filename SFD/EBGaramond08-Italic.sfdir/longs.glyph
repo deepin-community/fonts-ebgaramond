@@ -1,0 +1,26 @@
+StartChar: longs
+Encoding: 307 383 238
+Width: 257
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+404 680 m 0
+ 456 680 519 651 519 597 c 0
+ 519 570 499 533 476 533 c 0
+ 463 533 449 557 444 575 c 0
+ 436 605 419 627 385 627 c 0
+ 292 627 259 564 222 436 c 0
+ 180 291 135 112 118 -33 c 0
+ 105 -149 3 -258 -97 -258 c 0
+ -137 -258 -163 -237 -163 -207 c 0
+ -163 -180 -145 -156 -115 -156 c 0
+ -101 -156 -93 -191 -47 -191 c 0
+ 1 -191 26 -143 33 -80 c 0
+ 55 112 85 225 134 406 c 0
+ 169 536 264 680 404 680 c 0
+EndSplineSet
+Substitution2: "Single Substitution lookup 64 subtable" longs.short
+Substitution2: "Single Substitution lookup 63 subtable" longs.short
+Substitution2: "Smallcaps subtable" s.sc
+EndChar

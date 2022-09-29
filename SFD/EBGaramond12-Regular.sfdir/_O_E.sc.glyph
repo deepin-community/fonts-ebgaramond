@@ -1,0 +1,12 @@
+StartChar: OE.sc
+Encoding: 1114868 -1 1867
+Width: 726
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top_accent" 432 580 basechar 0
+LayerCount: 3
+Fore
+Refer: 1868 -1 N 1 0 0 1 0 0 2
+Validated: 1
+Comment: "." 
+EndChar

@@ -1,0 +1,31 @@
+Source: fonts-ebgaramond
+Section: fonts
+Priority: optional
+Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
+Uploaders: Scott Howard <showard@debian.org>
+Build-Depends: debhelper-compat (= 13), python3-fontforge, ttfautohint, woff-tools
+Standards-Version: 4.5.0
+Homepage: http://www.georgduffner.at/ebgaramond/
+Vcs-Git: https://salsa.debian.org/fonts-team/fonts-ebgaramond.git
+Vcs-Browser: https://salsa.debian.org/fonts-team/fonts-ebgaramond
+
+Package: fonts-ebgaramond
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: EB Garamond OpenType fonts
+ EB Garamond is an open source project to create a revival of Claude Garamont’s
+ famous humanist typeface from the mid-16th century. This package contains
+ OpenType fonts.
+
+Package: fonts-ebgaramond-extra
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Breaks: fonts-ebgaramond (<< 0.016)
+Replaces: fonts-ebgaramond (<< 0.016)
+Description: EB Garamond Initials and TrueType fonts
+ EB Garamond is an open source project to create a revival of Claude Garamont’s
+ famous humanist typeface from the mid-16th century. This package contains
+ TrueType fonts (.ttf), webfonts (.woff), small caps fonts, and fonts for
+ initials (monograms).

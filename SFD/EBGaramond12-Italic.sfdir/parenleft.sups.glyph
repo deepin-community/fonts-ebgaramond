@@ -1,0 +1,11 @@
+StartChar: parenleft.sups
+Encoding: 65920 -1 1512
+Width: 204
+VWidth: 440
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 1206 -1 N 1 0 0 1 135 440 2
+Validated: 1
+Comment: "." 
+EndChar

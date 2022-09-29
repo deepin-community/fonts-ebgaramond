@@ -1,0 +1,29 @@
+StartChar: l
+Encoding: 76 108 76
+Width: 255
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+127 79 m 2
+ 124.096679688 67.3564453125 126 62 135 62 c 0
+ 171 62 202 110 217 110 c 0
+ 223 110 224 103 224 97 c 0
+ 224 62 144 -14 84 -14 c 0
+ 51 -14 40 5 40 27 c 0
+ 40 39 44 50 46 58 c 2
+ 171 558 l 2
+ 177.37109375 583.485351562 180 593 180 604 c 0
+ 180 612 110 626 110 641 c 0
+ 110 656 209 682 241 682 c 0
+ 263 682 265 670 265 657 c 0
+ 265 635 259.198242188 608.869140625 250 572 c 2
+ 127 79 l 2
+EndSplineSet
+Substitution2: "Smallcaps subtable" l.sc
+Substitution2: "sups subtable" l.sups
+Substitution2: "sinf subtable" l.sinf
+Substitution2: "ordn subtable" l.ordn
+Substitution2: "subs subtable" l.subs
+Substitution2: "loclCAT subtable" l.CAT
+EndChar

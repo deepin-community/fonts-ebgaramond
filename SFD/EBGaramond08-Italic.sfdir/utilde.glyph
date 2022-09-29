@@ -1,0 +1,11 @@
+StartChar: utilde
+Encoding: 285 361 256
+Width: 482
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 312 771 N 1 0 0 1 160 0 2
+Refer: 85 117 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps subtable" utilde.sc
+MultipleSubs2: "CCMP_Precomp subtable" u tildecomb
+EndChar

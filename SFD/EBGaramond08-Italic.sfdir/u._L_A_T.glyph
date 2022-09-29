@@ -1,0 +1,10 @@
+StartChar: u.LAT
+Encoding: 1303 -1 946
+Width: 482
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 85 117 N 1 0 0 1 0 0 2
+Substitution2: "Single Substitution lookup 66 subtable" u.LATmedi
+Substitution2: "Smallcaps subtable" v.sc
+EndChar

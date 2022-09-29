@@ -1,0 +1,11 @@
+StartChar: six.tablining
+Encoding: 1464 -1 1179
+Width: 430
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 1159 -1 N 1 0 0 1 0 0 2
+Validated: 32769
+Substitution2: "'pnum' Proportionalziffern lookup 45 subtable" six.lnum
+Substitution2: "'onum' Minuskelziffern lookup 43 subtable" six.taboldstyle
+EndChar

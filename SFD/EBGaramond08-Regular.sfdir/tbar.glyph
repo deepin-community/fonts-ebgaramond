@@ -1,0 +1,19 @@
+StartChar: tbar
+Encoding: 359 359 760
+Width: 325
+VWidth: 982
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+52 222 m 2
+ 38 222 16 223 16 234 c 0
+ 16 252 37 270 69 270 c 2
+ 240 270 l 2
+ 265 270 282 268 282 260 c 0
+ 282 245 269 222 239 222 c 2
+ 52 222 l 2
+EndSplineSet
+Refer: 84 116 N 1 0 0 1 0 0 2
+Substitution2: "Smallcaps1 subtable" tbar.sc
+EndChar

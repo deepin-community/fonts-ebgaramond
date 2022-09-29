@@ -1,0 +1,132 @@
+lookup cyrillic_DLLj {
+    sub [ uni0409 uni0414 uni041B ] by [ uni0409.alt uni0414.alt uni041B.alt ];
+} cyrillic_DLLj;
+
+feature ss01{
+    lookup cyrillic_DLLj;
+} ss01;
+
+lookup historic_u {
+    ignore sub [ @Letters quoteright ] u';
+    sub u' by u.LAT;
+    sub [ @Letters quoteright ] v' by v.LATmedi;
+    sub U' by U.LAT;
+#    sub [ U.sc u.sc ]' by [ U.LATsc u.LATsc ];
+} historic_u;
+
+feature ss02 {
+    lookup historic_u;
+} ss02;
+
+lookup ss03 {
+    sub [ v w ] by [ v.alt w.alt ];
+} ss03;
+
+feature ss03 {
+    lookup ss03;
+} ss03;
+
+lookup alternate_h {
+    sub [ h k hcircumflex uni01E9 uni021F uni1E23 uni1E27 uni1E31 ] by [ h.01 k.01 hcircumflex.01 uni01E9.01 uni021F.01 uni1E23.01 uni1E27.01 uni1E31.01 ];
+} alternate_h;
+
+feature ss07 {
+#    lookup CCMP_Precomp;
+    lookup alternate_h;
+} ss07;
+
+lookup longs_replacement {
+     sub s' [ @letters hyphen uni200D ] by longs;
+} longs_replacement;
+
+feature cv01 {
+ lookup longs_replacement;
+} cv01;
+
+lookup at_alternates {
+    sub at by at.01;
+} at_alternates;
+
+feature cv02 {
+    lookup at_alternates;
+} cv02;
+
+lookup historic_j {
+    sub [ J j ] by [ J.hist j.hist ];
+} historic_j;
+
+feature cv03 {
+    lookup historic_j;
+} cv03;
+
+lookup ampersand_alt {
+    sub ampersand by ampersand.01;
+} ampersand_alt;
+
+feature cv04 {
+    lookup ampersand_alt;
+} cv04;
+
+lookup v_alternates {
+    sub v from [ v.init v.alt v.initalt ];
+    sub v.init from [ v.init v.initalt v.initalt ];
+    sub u.LATinit from [ v.init v.alt v.initalt ];
+} v_alternates;
+
+feature cv05 {
+    lookup v_alternates;
+} cv05;
+
+lookup alternate_g {
+    sub g from [ g.01 ];
+} alternate_g;
+
+feature cv27 {
+    lookup alternate_g;
+} cv27;
+
+lookup germandbls_variants {
+#    sub germandbls from [ germandbls.alt1 germandbls.alt2 ];
+    sub germandbls.sc by germandbls.sc1;
+} germandbls_variants;
+
+feature cv47 {
+    lookup germandbls_variants;
+} cv47;
+
+lookup VW_alts {
+    sub [ V W V.sc W.sc v.sc w.sc ] by [V.01 W.01 V.01sc W.01sc v.01sc w.01sc];
+} VW_alts;
+
+feature ss10 {
+    lookup VW_alts;
+} ss10;
+
+lookup cv82_decomp {
+    sub dcaron by d uni030C.alt;
+    sub lcaron by l uni030C.alt;
+    sub tcaron by t uni030C.alt;
+    sub Lcaron by L uni030C.altcap;
+} cv82_decomp;
+
+lookup cv82 {
+    sub uni030C.alt by uni030C.alt1;
+    sub uni030C.altcap by uni030C.altcap1;
+} cv82;
+
+feature cv82 {
+    lookup cv82_decomp;
+    lookup cv82;
+} cv82;
+
+lookup salt_lig {
+    sub a s by a_s;
+    sub e s by e_s;
+    sub eacute s by eacute_s;
+    sub i s by i_s;
+    sub u s by u_s;
+} salt_lig;
+
+feature salt {
+    lookup salt_lig;
+} salt;

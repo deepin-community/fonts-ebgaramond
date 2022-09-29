@@ -1,0 +1,12 @@
+StartChar: uni01E9
+Encoding: 489 489 313
+Width: 469
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 2105 -1 N 1 0 0 1 287 134 2
+Refer: 62 107 N 1 0 0 1 0 0 3
+Substitution2: "alternate_h subtable" uni01E9.01
+MultipleSubs2: "CCMP_Precomp subtable" k uni030C.flat
+EndChar

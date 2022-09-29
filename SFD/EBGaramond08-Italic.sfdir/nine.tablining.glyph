@@ -1,0 +1,11 @@
+StartChar: nine.tablining
+Encoding: 1467 -1 1182
+Width: 432
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 1162 -1 N 1 0 0 1 0 0 2
+Validated: 32769
+Substitution2: "'pnum' Proportionalziffern lookup 45 subtable" nine.lnum
+Substitution2: "'onum' Minuskelziffern lookup 43 subtable" nine.taboldstyle
+EndChar

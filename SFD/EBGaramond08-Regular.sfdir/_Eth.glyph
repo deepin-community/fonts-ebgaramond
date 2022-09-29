@@ -1,0 +1,35 @@
+StartChar: Eth
+Encoding: 208 208 127
+Width: 716
+VWidth: 982
+Flags: HMW
+AnchorPoint: "below_accent" 364 -80 basechar 0
+AnchorPoint: "cedilla" 360 15 basechar 0
+AnchorPoint: "ogonek" 394 15 basechar 0
+AnchorPoint: "top_accent" 346 670 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+337 598 m 4
+ 505 598 671 489 671 319 c 4
+ 671 146 574 -7 359 -7 c 4
+ 264 -7 211 4 165 4 c 4
+ 119 4 60 -2 53 -2 c 4
+ 42 -1 20 4 20 15 c 4
+ 20 30 53 35 75 45 c 4
+ 108 60 122 92 122 129 c 6
+ 122 482 l 6
+ 122 539 97 539 40 556 c 4
+ 31 559 24 564 24 573 c 4
+ 24 585 38 591 59 591 c 4
+ 90 591 109 590 139 590 c 4
+ 201 590 275 598 337 598 c 4
+217 521 m 6
+ 217 167 l 6
+ 217 61 289 38 377 38 c 4
+ 496 38 559 172 559 299 c 4
+ 559 445 446 553 304 553 c 4
+ 261 553 217 543 217 521 c 6
+EndSplineSet
+Substitution2: "c2sc subtable" Eth.sc
+EndChar

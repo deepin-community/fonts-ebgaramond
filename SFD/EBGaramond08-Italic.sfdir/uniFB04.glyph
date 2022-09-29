@@ -1,0 +1,9 @@
+StartChar: uniFB04
+Encoding: 1161 64260 273
+Width: 723
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 394 -1 N 1 0 0 1 0 0 2
+Ligature2: "liga_standard subtable" f f l
+EndChar

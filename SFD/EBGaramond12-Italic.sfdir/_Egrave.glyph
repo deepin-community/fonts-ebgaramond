@@ -1,0 +1,17 @@
+StartChar: Egrave
+Encoding: 200 200 137
+Width: 621
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 2074 -1 N 1 0 0 1 371 0 2
+Refer: 35 69 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "c2sc subtable" Egrave.sc
+Substitution2: "sups subtable" Egrave.sups
+Substitution2: "sinf subtable" Egrave.sinf
+Substitution2: "ordn subtable" Egrave.ordn
+Substitution2: "subs subtable" Egrave.subs
+MultipleSubs2: "CCMP_Precomp subtable" E gravecomb.cap
+EndChar

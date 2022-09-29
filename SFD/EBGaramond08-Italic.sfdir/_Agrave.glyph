@@ -1,0 +1,11 @@
+StartChar: Agrave
+Encoding: 116 192 112
+Width: 686
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 441 -1 N 1 0 0 1 503 -50 2
+Refer: 33 65 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Agrave.sc
+MultipleSubs2: "CCMP_Precomp subtable" A gravecomb.cap
+EndChar

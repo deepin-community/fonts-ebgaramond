@@ -1,0 +1,44 @@
+StartChar: eight
+Encoding: 24 56 25
+Width: 459
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+375 449 m 0
+ 375 491 357 538 316 538 c 0
+ 276 538 247 472 247 428 c 0
+ 247 399 259 363 272 335 c 2
+ 278 322 l 1
+ 288 328 l 2
+ 332 356 375 395 375 449 c 0
+125 116 m 0
+ 125 76 143 28 183 28 c 0
+ 223 28 257 51 257 113 c 0
+ 257 158 247 190 227 236 c 2
+ 222 247 l 1
+ 205 236 l 2
+ 159 207 125 171 125 116 c 0
+293 290 m 1
+ 299 276 l 2
+ 322 226 342 190 342 134 c 0
+ 342 40 217 -20 148 -20 c 0
+ 85 -20 45 34 45 94 c 0
+ 45 172 123 223 199 272 c 2
+ 209 278 l 1
+ 201 297 l 2
+ 187 331 175 375 175 414 c 0
+ 175 514 263 582 350 582 c 0
+ 408 582 451 531 451 473 c 0
+ 451 393 371 338 303 296 c 2
+ 293 290 l 1
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 44 subtable" eight.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" eight.lnum
+Substitution2: "Single Substitution lookup 41 subtable" eight.ordn
+Substitution2: "Single Substitution lookup 40 subtable" eight.subs
+Substitution2: "sups subtable" eight.sups
+Substitution2: "sinf subtable" eight.sinf
+Substitution2: "ordn subtable" eight.ordn
+Substitution2: "subs subtable" eight.subs
+EndChar

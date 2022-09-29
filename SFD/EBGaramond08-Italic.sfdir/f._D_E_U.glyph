@@ -1,0 +1,15 @@
+StartChar: f.DEU
+Encoding: 1299 -1 942
+Width: 314
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 70 102 N 1 0 0 1 0 0 2
+Substitution2: "Single Substitution lookup 64 subtable" f.short
+Substitution2: "Single Substitution lookup 63 subtable" f.short
+Substitution2: "Smallcaps subtable" f.sc
+Substitution2: "sups subtable" f.sups
+Substitution2: "sinf subtable" f.sinf
+Substitution2: "ordn subtable" f.ordn
+Substitution2: "subs subtable" f.subs
+EndChar

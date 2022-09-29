@@ -1,0 +1,12 @@
+StartChar: uni013C
+Encoding: 240 316 512
+Width: 255
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 882 806 N 1 0 0 1 -53.3764 -60 2
+Refer: 76 108 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps subtable" uni013C.sc
+MultipleSubs2: "CCMP_Precomp subtable" l uni0326
+EndChar

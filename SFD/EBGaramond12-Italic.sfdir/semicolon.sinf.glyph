@@ -1,0 +1,11 @@
+StartChar: semicolon.sinf
+Encoding: 65735 -1 1327
+Width: 148
+VWidth: -144
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 1225 -1 N 1 0 0 1 -44 -144 2
+Validated: 1
+Comment: "." 
+EndChar

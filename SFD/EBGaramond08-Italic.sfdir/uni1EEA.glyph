@@ -1,0 +1,11 @@
+StartChar: uni1EEA
+Encoding: 785 7914 1930
+Width: 705
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 441 -1 N 1 0 0 1 702.869 -17 2
+Refer: 900 431 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" Uhorn gravecomb.cap
+EndChar

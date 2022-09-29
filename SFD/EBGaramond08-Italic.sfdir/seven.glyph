@@ -1,0 +1,35 @@
+StartChar: seven
+Encoding: 23 55 24
+Width: 457
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+333 326 m 2
+ 342.154296875 339.122070312 333 343 314 343 c 2
+ 173 343 l 2
+ 152 343 120.442382812 334.133789062 107 318 c 0
+ 91.6376953125 299.560546875 77 289 67 289 c 0
+ 55 289 47 296 47 309 c 0
+ 47 327 108 404 115 416 c 0
+ 120 425 124 427 135 427 c 0
+ 142 427 179.000976562 422.208984375 203 422 c 2
+ 330 422 l 2
+ 405 422 417 428 433 428 c 0
+ 439 428 447 416 447 405 c 0
+ 447 395 417.103515625 362.92578125 404 344 c 2
+ 66 -145 l 2
+ 57.791015625 -156.85546875 42 -165 33 -165 c 0
+ 21 -165 17 -157 17 -152 c 0
+ 17 -147 13.974609375 -129.985351562 32 -105 c 2
+ 333 326 l 2
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 44 subtable" seven.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" seven.lnum
+Substitution2: "Single Substitution lookup 41 subtable" seven.ordn
+Substitution2: "Single Substitution lookup 40 subtable" seven.subs
+Substitution2: "sups subtable" seven.sups
+Substitution2: "sinf subtable" seven.sinf
+Substitution2: "ordn subtable" seven.ordn
+Substitution2: "subs subtable" seven.subs
+EndChar

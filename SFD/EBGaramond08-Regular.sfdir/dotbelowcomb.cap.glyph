@@ -1,0 +1,12 @@
+StartChar: dotbelowcomb.cap
+Encoding: 1115043 -1 2097
+Width: 0
+VWidth: 982
+Flags: MW
+AnchorPoint: "below_accent" 85 -80 mark 0
+LayerCount: 2
+Fore
+Refer: 252 775 N 1 0 0 1 0 -738 2
+Validated: 32769
+Substitution2: "c2sc subtable" dotbelowcomb
+EndChar

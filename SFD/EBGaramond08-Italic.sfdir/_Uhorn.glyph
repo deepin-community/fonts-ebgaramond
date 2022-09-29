@@ -1,0 +1,11 @@
+StartChar: Uhorn
+Encoding: 310 431 900
+Width: 705
+VWidth: 0
+Flags: MW
+AnchorPoint: "ogonek" 490 18 basechar 0
+LayerCount: 2
+Fore
+Refer: 14 44 N 1 0 0 1 730.912 483 2
+Refer: 53 85 N 1 0 0 1 0 0 2
+EndChar

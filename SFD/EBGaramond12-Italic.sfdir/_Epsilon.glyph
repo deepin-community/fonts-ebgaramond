@@ -1,0 +1,13 @@
+StartChar: Epsilon
+Encoding: 917 917 633
+Width: 621
+VWidth: 0
+Flags: MW
+AnchorPoint: "grk_uc_top" 493 710 basechar 0
+AnchorPoint: "grk_uc_top_left" 66 665 basechar 0
+LayerCount: 2
+Fore
+Refer: 35 69 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "c2sc subtable" Epsilon.sc
+EndChar

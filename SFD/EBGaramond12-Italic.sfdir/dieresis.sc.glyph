@@ -1,0 +1,10 @@
+StartChar: dieresis.sc
+Encoding: 66116 -1 1708
+Width: 0
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 72 168 N 1 0 0 1 0 0 2
+Comment: "." 
+EndChar

@@ -1,0 +1,11 @@
+StartChar: four.tablining
+Encoding: 1462 -1 1177
+Width: 446
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 1157 -1 N 1 0 0 1 0 0 2
+Validated: 32769
+Substitution2: "'pnum' Proportionalziffern lookup 45 subtable" four.lnum
+Substitution2: "'onum' Minuskelziffern lookup 43 subtable" four.taboldstyle
+EndChar

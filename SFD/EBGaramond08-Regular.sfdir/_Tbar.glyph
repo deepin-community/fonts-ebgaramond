@@ -1,0 +1,19 @@
+StartChar: Tbar
+Encoding: 358 358 759
+Width: 592
+VWidth: 982
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+157 304 m 2
+ 143 304 121 305 121 316 c 0
+ 121 334 142 352 174 352 c 2
+ 472 352 l 2
+ 497 352 514 350 514 342 c 0
+ 514 327 501 304 471 304 c 2
+ 157 304 l 2
+EndSplineSet
+Refer: 52 84 N 1 0 0 1 0 0 2
+Substitution2: "c2sc subtable" Tbar.sc
+EndChar

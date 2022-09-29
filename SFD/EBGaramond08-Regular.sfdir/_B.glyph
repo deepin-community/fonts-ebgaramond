@@ -1,0 +1,48 @@
+StartChar: B
+Encoding: 66 66 34
+Width: 523
+VWidth: 982
+Flags: HMW
+AnchorPoint: "below_accent" 280 -80 basechar 0
+AnchorPoint: "cedilla" 281 15 basechar 0
+AnchorPoint: "ogonek" 265 15 basechar 0
+AnchorPoint: "top_accent" 269 670 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+169 591 m 2
+ 193 591 250 596 295 596 c 0
+ 373 596 456 555 456 479 c 0
+ 456 408 422 354 365 335 c 0
+ 354 331 355 321 363 320 c 0
+ 438 309 498 261 498 180 c 0
+ 498 57 394 -2 261 -2 c 0
+ 240 -2 185 3 166 3 c 0
+ 119 3 60 -2 53 -2 c 0
+ 42 -1 20 5 20 15 c 0
+ 20 30 53 35 75 45 c 0
+ 109 60 122 92 122 129 c 2
+ 122 482 l 2
+ 122 539 97 540 40 556 c 0
+ 31 559 24 564 24 573 c 0
+ 24 585 38 591 59 591 c 2
+ 169 591 l 2
+217 528 m 2
+ 217 355 l 2
+ 217 340 229 335 247 335 c 0
+ 308 335 370 385 370 446 c 0
+ 370 517 320 555 263 555 c 0
+ 223 555 217 549 217 528 c 2
+217 85 m 2
+ 217 55 233 39 271 39 c 0
+ 346 39 387 100 387 168 c 0
+ 387 252 348 291 247 291 c 0
+ 232 291 217 285 217 264 c 2
+ 217 85 l 2
+EndSplineSet
+Substitution2: "c2sc subtable" B.sc
+Substitution2: "sups subtable" B.sups
+Substitution2: "sinf subtable" B.sinf
+Substitution2: "ordn subtable" B.ordn
+Substitution2: "subs subtable" B.subs
+EndChar

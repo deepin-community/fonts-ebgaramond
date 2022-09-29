@@ -1,0 +1,11 @@
+StartChar: uni1FBB
+Encoding: 8123 8123 970
+Width: 772
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+Refer: 2367 -1 N 1 0 0 1 228 35 2
+Refer: 631 913 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" Alpha acutecomb.grk
+EndChar

@@ -1,0 +1,11 @@
+StartChar: eth
+Encoding: 240 240 159
+Width: 445
+VWidth: 982
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 262 273 N 1 0 0 1 0 0 2
+Validated: 32769
+Substitution2: "Smallcaps1 subtable" eth.sc
+EndChar

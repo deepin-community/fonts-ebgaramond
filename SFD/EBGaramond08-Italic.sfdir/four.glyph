@@ -1,0 +1,39 @@
+StartChar: four
+Encoding: 20 52 21
+Width: 574
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+392 405 m 2
+ 398 410 430 430 452 430 c 0
+ 461 430 465.80078125 423.053710938 462 409 c 2
+ 384.235351562 121.490234375 l 1
+ 489 136 l 2
+ 503.987304688 138.076171875 521 133 521 122 c 0
+ 521 110 507.596679688 74.203125 483 71 c 2
+ 366.473632812 55.82421875 l 1
+ 320 -116 l 2
+ 310.198242188 -152.237304688 278 -160 242 -160 c 0
+ 230 -160 226.227539062 -139.545898438 230 -126 c 2
+ 278.044921875 46.5263671875 l 1
+ 53 15 l 2
+ 24.009765625 10.9384765625 21 31 21 41 c 0
+ 21 57 37 85 74 117 c 1
+ 392 405 l 2
+296.126953125 111.455078125 m 1
+ 340 269 l 2
+ 344.571289062 285.374023438 334.071289062 288.147460938 319 275 c 2
+ 116 98 l 2
+ 108.461914062 91.427734375 116.094726562 84.197265625 128 86 c 2
+ 296.126953125 111.455078125 l 1
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 44 subtable" four.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" four.lnum
+Substitution2: "Single Substitution lookup 41 subtable" four.ordn
+Substitution2: "Single Substitution lookup 40 subtable" four.subs
+Substitution2: "sups subtable" four.sups
+Substitution2: "sinf subtable" four.sinf
+Substitution2: "ordn subtable" four.ordn
+Substitution2: "subs subtable" four.subs
+EndChar

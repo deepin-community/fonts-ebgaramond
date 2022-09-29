@@ -1,0 +1,29 @@
+Description: use debian tools to build webfonts
+Author: Scott Howard <showard@debian.org>
+Index: fonts-ebgaramond/Makefile
+===================================================================
+--- fonts-ebgaramond.orig/Makefile
++++ fonts-ebgaramond/Makefile
+@@ -34,7 +34,7 @@ pack: dpack wpack
+ 
+ otf: $(OTF)
+ ttf: $(TTF)
+-web: $(WOF) $(EOT)
++web: $(WOF) # $(EOT)
+ pdfs: $(PDF)
+ 
+ $(BLD):
+@@ -55,10 +55,10 @@ $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(
+ 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
+ 	@mv $@.tmp $@
+ 
+-$(WEB)/%.woff: $(BLD)/%.ttf | $(BLD)
++$(WEB)/%.woff: $(BLD)/%.otf | $(BLD)
+ 	@echo "Generating	$@"
+-	@$(SFNTTOOL) -w $< $@
+-#	@sfnt2woff $<
++#	@$(SFNTTOOL) -w $< $@
++	@sfnt2woff $<
+ 
+ $(WEB)/%.eot: $(BLD)/%.ttf | $(BLD)
+ 	@echo "Generating	$@"
